@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- homepage_v1_homepageentry.yaml
+#+kubebuilder:scaffold:manifestskustomizesamples

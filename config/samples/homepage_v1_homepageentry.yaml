@@ -1,0 +1,9 @@
+apiVersion: homepage.nathanyu.com/v1
+kind: HomePageEntry
+metadata:
+  labels:
+    app.kubernetes.io/name: homepage-operator
+    app.kubernetes.io/managed-by: kustomize
+  name: homepageentry-sample
+spec:
+  # TODO(user): Add fields here
